@@ -60,7 +60,7 @@ title: Hux Blog             # 你的博客网站标题
 SEOTitle: Hux Blog			# 在后面会详细谈到
 description: "Cool Blog"    # 随便说点，描述一下
 
-# SNS settings      
+# SNS settings
 github_username: huxpro     # 你的github账号
 weibo_username: huxpro      # 你的微博账号，底部链接会自动更新的。
 
@@ -117,7 +117,7 @@ Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账
 
 ```
 # Featured Tags
-featured-tags: true  
+featured-tags: true
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
 ```
 
