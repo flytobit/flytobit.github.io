@@ -1,6 +1,6 @@
-_site
-node_modules
 .DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.sh
+**/.DS_Store
+_site*
+.sass-cache
+.jekyll-metadata
+*backup/
