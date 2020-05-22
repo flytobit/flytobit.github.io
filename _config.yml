@@ -38,6 +38,12 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: English 
+      url: /English_article.xml
+    - text: 中文
+      url: /Chinese_article.xml
+    - text: 日本語
+      url: /Japanese_article.xml  
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
