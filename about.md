@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm a product manager since 2012,experience in Game\AI\Finance.Now living in Shenzhen，China.
+I'm a product manager since 2012, experience in Game\AI\Finance.Now living in Shenzhen, China.
 
 email: pmxionghui@gmail.com
